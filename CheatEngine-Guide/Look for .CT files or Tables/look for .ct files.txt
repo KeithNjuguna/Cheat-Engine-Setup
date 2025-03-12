@@ -1,0 +1,31 @@
+How to Look for .CT Files
+Cheat Table (.CT) files are commonly shared by communities of modders, game hackers, and Cheat Engine users. Here's how to find them:
+
+1. Online Communities and Forums
+Cheat Engine Forums – The official Cheat Engine forums (https://forum.cheatengine.org/) are a great place to find pre-made .CT files for a variety of games.
+Gaming Forums & Subreddits – There are many communities, such as those on Reddit (e.g., /r/cheatengine), where users share their .CT files. Be sure to check for specific games or cheat requests.
+Modding Websites – Some websites dedicated to modding (e.g., Nexus Mods or GameCopyWorld) may offer .CT files for popular games.
+2. Cheat Engine Tables Websites
+Cheat Engine Table Websites – Some websites are dedicated to hosting Cheat Engine tables. Searching for your game + “Cheat Table” in Google can help find sites that host .CT files.
+Popular sites include:
+FearLess Cheat Engine (https://fearlessrevolution.com/)
+Cheat Engine Database (https://www.cheatengine.org/)
+3. Custom .CT Files
+Create Your Own – If you’re unable to find a .CT file for a specific game, you can create your own by following tutorials on Cheat Engine to locate memory addresses and save them into a cheat table. This process involves:
+Scanning for the value you want to change in Cheat Engine.
+Narrowing down the memory addresses.
+Saving the address with the cheat as a .CT file for future use.
+4. Torrent and File Sharing Websites
+While less reliable, torrent or file-sharing sites may host .CT files shared by others. Be cautious when downloading files from unofficial sources to avoid malware.
+5. Search Engines
+Use search engines like Google with specific queries like:
+“Game Name cheat engine table”
+“Game Name .CT file download”
+“Game Name cheats Cheat Engine”
+For example: "Skyrim cheat engine table .CT download" or "The Witcher 3 Cheat Engine table."
+6. Discord Communities
+Many Discord servers dedicated to specific games or Cheat Engine may share custom-made .CT files. Join the relevant server and check their pinned messages or file-sharing channels.
+How to Verify the Safety of .CT Files
+Be Cautious – Only download .CT files from trusted sources to avoid potential malware or viruses.
+Antivirus Scans – Always scan downloaded files with an antivirus before opening them.
+Community Feedback – Check feedback or comments from other users to ensure the .CT file works as intended and doesn’t have malicious code.

@@ -1,0 +1,25 @@
+How to Use .CT Files in Cheat Engine
+Step 1: Open Cheat Engine
+Launch Cheat Engine by double-clicking the desktop shortcut or searching for it in the Start menu.
+Once the program is open, you’ll see the Cheat Engine interface.
+Step 2: Load the Game
+Open the game you want to modify.
+Return to Cheat Engine and click the Computer icon (top left) to open the Process List.
+Select your game’s process from the list (usually named after the game or the executable file) and click Open.
+Step 3: Load the .CT File
+Open the .CT File – In Cheat Engine, click File in the top menu, then select Open.
+Navigate to the .CT File – Browse to the location of the .CT file you want to use and select it. Alternatively, if the .CT file is already in the same folder, you can open it directly.
+The .CT file will load in Cheat Engine, and you'll see all the cheats or modifications listed in the Cheat Table window.
+Step 4: Activate Cheats
+Tick the Checkboxes – In the Cheat Table, each cheat is typically listed with a checkbox next to it. Check the box for the cheat you want to enable.
+For example, if the cheat modifies health, you can enable it by checking the box next to the health cheat.
+Some cheats may require specific conditions to be met in the game (e.g., being in a particular menu or scene) before they can be activated.
+Step 5: Modify Values (Optional)
+Some .CT files allow you to manually change values (e.g., money, health). To do this, double-click the value you want to modify, enter a new value, and press Enter.
+Step 6: Disable Cheats (Optional)
+To disable a cheat, simply uncheck the box next to it. This will revert the game to its normal state.
+Step 7: Save the Cheat Table (Optional)
+If you want to save the changes you made to the cheat table, go to File > Save As and save the .CT file for future use.
+Tips for Using .CT Files:
+Pointer Scanning – Some .CT files may include pointer addresses, which track variables even after restarting the game. This ensures cheats remain active even if the game is closed and reopened.
+Anti-Cheat – Some games have anti-cheat mechanisms that may block Cheat Engine from working. You may need to disable certain protections (like anti-virus or game client protections) or run the game in offline mode.

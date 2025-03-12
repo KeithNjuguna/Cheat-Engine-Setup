@@ -1,0 +1,17 @@
+How to Download and Install Cheat Engine
+Step 1: Download Cheat Engine
+Go to the Official Website – Visit Cheat Engine’s official website to download the latest version.
+Select the Correct Version – Choose the Windows installer or the portable version (no installation required). Mac users can download the Mac-compatible version if available.
+Avoid Unwanted Software – During installation, some versions may include optional software (adware). Uncheck any extra software offers to avoid unnecessary installations.
+Step 2: Install Cheat Engine
+Run the Installer – Open the downloaded .exe file.
+Follow the Setup Wizard – Click Next and accept the license agreement.
+Choose Installation Path – Select where you want Cheat Engine installed or leave the default location.
+Deselect Unwanted Offers – If prompted to install third-party software, decline or uncheck these options.
+Complete Installation – Click Finish to complete the process.
+Step 3: Launch Cheat Engine
+Open Cheat Engine from the Start menu or desktop shortcut.
+Click Yes if prompted by Windows User Account Control (UAC).
+(Optional) Step 4: Disable Antivirus Warnings
+Some antivirus programs may flag Cheat Engine as a false positive due to its memory-editing capabilities.
+If necessary, add an exception in your antivirus settings to allow Cheat Engine to run.
